@@ -1,0 +1,20 @@
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.exe
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.deps.json
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.json
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.dev.json
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.dll
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe_MarkupCompile.cache
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe_MarkupCompile.lref
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.g.resources
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.dll
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+C:\Users\ztram\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.genruntimeconfig.cache
